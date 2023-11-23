@@ -1,0 +1,3 @@
+gmail | hello@gmail.com | orange
+facebook | email@gmail.com | apple
+gmail | hello | orange
